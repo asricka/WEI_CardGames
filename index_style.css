@@ -35,9 +35,10 @@
     padding: 15px;
 }
 
-.navbar ul li:hover{
+.navbar li:hover{
     background-color: #696868;
 }
+
 
 .navbar a{
     color: black;
