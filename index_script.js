@@ -2,6 +2,7 @@ function navDropBtn(){
     document.getElementById("myDropDwn").classList.toggle("dropdown-content-show");
 }
 
+
 // window.onclick = function(event) {
 //   if (!event.target.matches('.dropbtn')) {
 //     var dropdowns = document.getElementsByClassName("dropdown-content");
